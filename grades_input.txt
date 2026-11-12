@@ -1,0 +1,12 @@
+1001,Nguyen,Linh,92,88,95,91
+1002,Garcia,Mateo,85,78,82,80
+1003,Patel,Priya,90,90,90,89.75
+1004,Okafor,Chidi,70,70,70,70
+1005,Kim,Daniel,100,100,100,100
+1006,Silva,Ana,60,55,65,58
+1007,Tran,Minh,75,68,72,66
+1008,Hernandez,Sofia,88,92,90,90
+1009,Johnson,Marcus,0,0,0,0
+1010,O'Brien,Kelly,78,84,80,79
+1011,Chen,Wei,95,60,85,100
+1012,Williams,Jordan,65,72,68,62
